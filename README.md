@@ -1,4 +1,4 @@
-# FEZ官方网站
+# fez-effect 特效实例
 
 本项目基于[FEZ模块化工程开发框架](https://github.com/furic-zhao/fez)构建，是使用Canvas、Threejs做的特效实例，可以快速的在使用FEZ开发的项目中引入使用。
 
