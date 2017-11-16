@@ -1,4 +1,4 @@
-const Dots = function() {
+let Dots = function() {
   // 画布相关
   this.canvas;
   this.ctx;
